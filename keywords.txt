@@ -61,6 +61,10 @@ getMagY 		KEYWORD2
 getMagZ		 KEYWORD2
 getMagAccuracy		 KEYWORD2
 
+getLinAccelX   KEYWORD2
+getLinAccelY   KEYWORD2
+getLinAccelZ   KEYWORD2
+
 calibrateAccelerometer		 KEYWORD2
 calibrateGyro		KEYWORD2		
 calibrateMagnetometer 		KEYWORD2
